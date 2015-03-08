@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html>
+
+<body>
+  <h1>My First Heading</h1>
+  <p>My first paragraph.</p>
+</body>
+
+</html> 
+The <body> element defines the document body.
+
+It has a start tag <body> and an end tag </body>.
+
+The element content is two other HTML elements (<h1> and <p>).
+<br> is an empty element without a closing tag (the <br> tag defines a line break).
+
+Empty elements can be "closed" in the opening tag like this: <br />.
