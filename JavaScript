@@ -1,3 +1,0 @@
-JavaScript is a programming language.
-
-JavaScript statements are separated by semicolon.
